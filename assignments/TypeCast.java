@@ -1,4 +1,5 @@
-/*52.Write a program give bigger int value and type cast int to byte*/
+/*52.Write a program give bigger int value and type cast int to byte
+85.WAP to showcase the Widening typecasting*/
 package assignments;
 
 public class TypeCast 
